@@ -1,7 +1,7 @@
 <p align="center">
   <img width="120" src="public/img/icons/android-chrome-512x512.png">
 </p>
-<p>hlj-szw</p>
+<p>胡丽娟</p>
 <p align="center">
   <a href="https://github.com/vuejs/vue">
     <img src="https://img.shields.io/badge/vue-2.6.10-brightgreen.svg" alt="vue">
